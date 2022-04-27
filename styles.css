@@ -9,7 +9,11 @@ body {
 
 
 .header-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #1F2937;
+    padding: 16px;
 }
 
 .header-logo {
