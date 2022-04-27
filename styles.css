@@ -17,3 +17,7 @@ body {
     color: #f8faf8;
 }
 
+.header-links {
+    display: flex;
+    list-style: none;
+}
