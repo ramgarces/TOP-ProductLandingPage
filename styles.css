@@ -140,3 +140,42 @@ body {
 .quote-container {
     padding: 8rem 28rem;
 }
+
+/* Call to Action section */
+
+.call-box {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    margin: 5rem 32rem;
+    padding: 3rem 2rem;
+    border-radius: 16px;
+}
+
+.box-text {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.call-box-bold, .call-box-text {
+    padding: 0;
+    margin: 1px 0;
+    color: #fff;
+}
+
+.call-box-bold {
+    font-weight: 800;
+}
+
+.call-box-text {
+    font-weight: 100;
+}
+
+.sign-up-button {
+    background-color: #3882f6;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 3px 32px;
+    border-radius: .5rem;
+}
