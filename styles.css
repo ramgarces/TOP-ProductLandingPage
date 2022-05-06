@@ -179,3 +179,14 @@ body {
     padding: 3px 32px;
     border-radius: .5rem;
 }
+
+/* Footer section */
+
+.footer {
+    width: 100%;
+    color: #fff;
+    background-color: #1F2937;
+    text-align: center;
+    padding: 1rem;
+}
+
